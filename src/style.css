@@ -285,7 +285,7 @@ section,
   /////////////////////// */
 
 .snippet {
-  display: grid;
+  display: list;
   gap: 1em;
   grid-template-areas:
     "image"
