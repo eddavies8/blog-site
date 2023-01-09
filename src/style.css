@@ -89,10 +89,10 @@ body {
   font-family: monospace;
 }
 
-h1,
-h2,
-h3 {
-  font-family: sans-serif;
+h1 {
+  font-family: monospace;
+  font-size: 80px;
+  font-weight: 400;
 }
 
 strong {
@@ -114,17 +114,17 @@ section,
    spacing */
 
 .flow > *:where(:not(:first-child)) {
-  margin-top: var(--flow-spacer, 1em);
+  margin-top: 80px;
 }
 
 .container {
   margin-inline: auto;
-  padding-inline: 1.5em;
+  padding-inline: 0px;
   max-width: 750px;
 }
 
 .container--narrow {
-  max-width: 65rem;
+  max-width: 750px;
 }
 
 .flex-group {
