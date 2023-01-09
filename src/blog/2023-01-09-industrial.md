@@ -1,5 +1,5 @@
 ---
-title: Industrial
+title: Photos from a walk through an industrial area.
 description: Photos from a walk through an industrial area.
 author: Ed Davies
 date: 2022-04-15T21:09:58.402Z
