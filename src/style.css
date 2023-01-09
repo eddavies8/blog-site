@@ -110,7 +110,7 @@ section,
    spacing */
 
 .flow > *:where(:not(:first-child)) {
-  margin-top: 40px;
+  margin-top: 64px;
 }
 
 .container {
@@ -189,10 +189,9 @@ section,
   /////////////////////// */
 
 .site-footer {
-  --logo-color: currentColor;
-  padding: 2em 0;
-  color: var(--clr-neutral-100);
-  background-color: var(--clr-primary-500);
+  padding: 64px;
+  color: #000000;
+  background-color: #E0FF3E;
   text-align: center;
 }
 
@@ -225,7 +224,7 @@ section,
 }
 
 .articles__list {
-  --flow-spacer: 200px;
+  --flow-spacer: 48px;
   margin: 0px;
 }
 
@@ -234,8 +233,9 @@ section,
   /////////////////////// */
 
   .main-article {
-    margin-bottom: 80px;
+    margin-bottom: 96px;
     margin-top: 0px;
+    padding-top: 0px;
   }
 
   .main-article__figure figcaption {
