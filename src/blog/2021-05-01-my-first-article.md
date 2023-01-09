@@ -1,5 +1,5 @@
 ---
-title: Duke of Yorks
+title: Duke of Yorks 🍿
 description: Sarah and I love going to the cinema together, we got a membership
   at Dukes. It's fun to look forward to a film, book a sofa and sneak in snacks.
   Check out the popcorn sprinkles in the background.
