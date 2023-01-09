@@ -97,7 +97,7 @@ strong {
 
 section,
 .section {
-  padding: min(10vh, 10em) 0;
+  padding: 80px;
 }
 
 
@@ -114,6 +114,7 @@ section,
 }
 
 .container {
+  padding-top: 0px;
   margin-inline: auto;
   padding-inline: 0px;
   max-width: 600px;
@@ -138,7 +139,7 @@ section,
 
 .article-title,
 .section-title {
-  color: #232323;
+  color: #000000;
 }
 
 .article-title {
@@ -149,11 +150,10 @@ section,
   font-family: 'Space Grotesk';
   font-size: 288px;
   font-weight: 300;
-  line-height: 280px;
+  line-height: 380px;
   letter-spacing: -5px;
   text-align: center;
 }
-
 
 /* //////////////////////
   Header
