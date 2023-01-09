@@ -120,7 +120,7 @@ section,
 .container {
   margin-inline: auto;
   padding-inline: 0px;
-  max-width: 750px;
+  max-width: 700px;
 }
 
 .container--narrow {
@@ -258,8 +258,6 @@ section,
 .snippet__image {
   grid-area: image;
   width: 100%;
-  aspect-ratio: 4 / 3;
-  object-fit: cover;
   text-decoration: none;
 }
 .snippet__title {
