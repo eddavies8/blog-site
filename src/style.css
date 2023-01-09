@@ -87,6 +87,7 @@ select {
 
 body {
   font-family: monospace;
+  background-color: #F3F3F3;
 }
 
 
@@ -148,6 +149,8 @@ section,
   font-family: 'Space Grotesk';
   font-size: 288px;
   font-weight: 300;
+  line-height: 280px;
+  letter-spacing: -5px;
   text-align: center;
 }
 
@@ -261,6 +264,7 @@ section,
 }
 .snippet__title {
   grid-area: title;
+  
 }
 .snippet__meta {
   grid-area: meta;
