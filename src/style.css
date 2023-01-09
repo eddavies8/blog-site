@@ -108,7 +108,7 @@ section,
    spacing */
 
 .flow > *:where(:not(:first-child)) {
-  margin-top: 64px;
+  margin-top: 48px;
 }
 
 .container {
@@ -120,7 +120,8 @@ section,
 
 .container--narrow {
   max-width: 600px;
-  padding: 0px;
+  margin-top: 0px;
+  padding: 16px;
 }
 
 .flex-group {
@@ -139,11 +140,10 @@ section,
   font-family: 'Inter';
   font-size: 60px;
   font-weight: 700;
-  line-height: 30px;
+  line-height: 60px;
   letter-spacing: 0px;
   text-align: left;
 }
-
 
 .section-title {
   color: #000000;
@@ -175,12 +175,13 @@ a:visited {
   /////////////////////// */
 
 .page-header {
-  padding: 16px 0;
+  padding: 0px 0px;
 }
 
 .page-header__content {
   display: flex;
   justify-content: space-between;
+  margin: 16px;
 }
 
 .nav-list {
@@ -191,6 +192,8 @@ a:visited {
 .nav-list a {
   color: #000000;
   text-decoration: none;
+  margin: 16px;
+  padding: 16px;
 }
 
 .nav-list a:focus,
@@ -239,7 +242,7 @@ a:visited {
 
 .articles__list {
   --flow-spacer: 48px;
-  margin: 0px;
+  margin: 16px;
 }
 
 /* //////////////////////
