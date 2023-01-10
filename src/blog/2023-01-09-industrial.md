@@ -13,8 +13,6 @@ imageAlt: Photography walk
 ---
 ![](/assets/images/2022-04-seawalk-4.jpeg)
 
-![](/assets/images/2022-04-seawalk-3.jpeg)
-
 ![](/assets/images/2022-04-seawalk-1.jpeg)
 
 ![](/assets/images/2022-04-seawalk-5.jpg)
