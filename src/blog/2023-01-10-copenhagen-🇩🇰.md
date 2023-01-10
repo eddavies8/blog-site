@@ -30,4 +30,4 @@ H﻿allernes Smørrebrød makes the most delicious Smørrebrød with different t
 
 ![](/assets/images/2022-11-17-copenhagen-3.jpg)
 
-I﻿t was Sarah's 30th while we were away. 🎊
+I﻿t was Sarah's 30th while we were away. 🎊🎊🎊
