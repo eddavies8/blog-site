@@ -30,4 +30,4 @@ H﻿allernes Smørrebrød makes the most delicious Smørrebrød with different t
 
 ![](/assets/images/2022-11-17-copenhagen-3.jpg)
 
-It was Sarah's birthday while we were away, she turned 30. We reflected and talked a lot.
+I﻿t was Sarah's 30th while we were away. 🎊
