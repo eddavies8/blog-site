@@ -10,7 +10,7 @@ tags:
   - photography
   - design
 image: /assets/images/2022-11-17-copenhagen-1.jpg
-imageAlt: post 01
+imageAlt: Louisiana Museum of Modern Art
 ---
 W﻿e travelled to Copenhagen, it was more beautiful and peaceful than anywhere else I've been. If you have high expectations for visiting, keep them high and it will exceed them.
 
