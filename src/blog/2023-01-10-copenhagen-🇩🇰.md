@@ -23,4 +23,11 @@ W﻿e got the train out to the Louisiana Museum of Modern Art and saw the Alex D
 W﻿e went to The Round Tower (Rundetårn), Desinmuseum Denmark, The Louisiana Museum, Tivoli, War Pigs, Pho Hanoi, Grød, døp, Gasoline Grill, Acne Studios, HAY, Norse Projects, GANNI, Studio Arhoj and more.
 
 ![](/assets/images/2022-11-17-copenhagen-5.jpg)
+
 H﻿allernes Smørrebrød makes the most delicious Smørrebrød with different toppings.
+
+![](/assets/images/2022-11-17-copenhagen-6.jpg)
+
+![](/assets/images/2022-11-17-copenhagen-3.jpg)
+
+It was Sarah's birthday while we were away, she turned 30. We reflected and talked a lot.
