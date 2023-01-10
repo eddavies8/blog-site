@@ -8,11 +8,9 @@ tags:
   - photography
   - industrial
   - walking
-image: /assets/images/posters-005.png
-imageAlt: Input
+image: /assets/images/2022-04-seawalk-2.jpeg
+imageAlt: Industrial
 ---
-![](/assets/images/2022-04-seawalk-2.jpeg)
-
 ![](/assets/images/2022-04-seawalk-4.jpeg)
 
 ![](/assets/images/2022-04-seawalk-5.jpg)
