@@ -20,7 +20,7 @@ W﻿e got the train out to the Louisiana Museum of Modern Art and saw the Alex D
 
 ![](/assets/images/2022-11-17-copenhagen-4.jpg)
 
-W﻿e went to The Round Tower (Rundetårn), Desinmuseum Denmark, The Louisiana Museum, Tivoli, War Pigs, Pho Hanoi, Grød, døp, Gasoline Grill, Acne Studios, HAY, Norse Projects, GANNI, Studio Arhoj and more.
+W﻿e went to The Round Tower (Rundetårn), Designmuseum Denmark, The Louisiana Museum, Tivoli, War Pigs, Pho Hanoi, Grød, døp, Gasoline Grill, Acne Studios, HAY, Norse Projects, GANNI, Studio Arhoj and more.
 
 ![](/assets/images/2022-11-17-copenhagen-5.jpg)
 
