@@ -1,6 +1,6 @@
 ---
 title: "Industrial "
-description: Recent design and photos.
+description: Photo walk
 author: Ed Davies
 date: 2022-04-15T21:09:58.402Z
 tags:
