@@ -138,10 +138,10 @@ section,
 
 .article-title {
   font-family: 'Inter';
-  font-size: 60px;
+  font-size: 56px;
   font-weight: 700;
   line-height: 60px;
-  letter-spacing: 0px;
+  letter-spacing: -1.5px;
   text-align: left;
 }
 
@@ -282,6 +282,7 @@ a:visited {
 }
 .snippet__title {
   grid-area: title;
+  line-height: 1;
   
 }
 .snippet__meta {
