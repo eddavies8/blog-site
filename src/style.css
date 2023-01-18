@@ -98,6 +98,11 @@ section,
   padding: 80px;
 }
 
+/* Thick red border */
+hr.new1 {
+  border: 0.5px solid #000000;
+}
+
 
 /* //////////////////////
   Utility Classes
