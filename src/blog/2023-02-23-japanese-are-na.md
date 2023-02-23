@@ -1,5 +1,5 @@
 ---
-title: Japanese Are.na
+title: Japanese Are.na 🔗
 description: Mood board
 author: Ed Davies
 date: 2023-02-23T21:49:23.978Z
