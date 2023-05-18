@@ -15,6 +15,6 @@ imageAlt: Mood board
 ---
 I﻿'m building a channel of Japanese graphics on Are.na, give me a shout if you're on there.\
 \
-<a href="https://www.are.na/ed-davies/japanese-fu0b8jagfty" target="_blank">https://www.are.na/ed-davies/japanese-fu0b8jagfty</a>
+<a href="https://https://www.are.na/ed-davies/japan-itw2bzol_5i" target="https://www.are.na/ed-davies/japan-itw2bzol_5i</a>
 
 <font size="7">(ノಠ益ಠ)ノ彡┻━┻</font>
